@@ -36,7 +36,7 @@ This repository is for the summary data article entitled "MODEL TEMPORAL SPACE O
 
 ## Highlight:
 
-1. [Exploratory Analysis of Socioeconomic and Infrastructure Variables  ](https://www.google.com)
+1. [Exploratory Analysis of Socioeconomic and Infrastructure Variables  ](https://github.com/ErisonBarros/BR-408-Highway-Domain-Database/blob/gh-pages1/Analise_Explorat%C3%B3ria_dos_Dados_Socioecon%C3%B4micos_e_de_Infra_estrutura_.ipynb)
 
 2. [MapBiomas Extracted and Normalized Land Use/Cover Layers.](https://www.google.com)
 
