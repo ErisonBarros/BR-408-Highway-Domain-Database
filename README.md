@@ -1,12 +1,5 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-! [Casos diários de morte de COVID-19 na Nigéria] (Charts / Daily_death_cases.png)
-
-# TIME-SPACE MODELING OF IRREGULAR OCCUPATIONS AROUND BRAZILIAN HIGHWAYS, BASED ON STATIC GRIDS: CASE STUDY BR-408 
-
-[![License: GPL
-v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-
+# TIME-SPACE MODELING OF IRREGULAR OCCUPATIONS AROUND BRAZILIAN HIGHWAYS, BASED ON STATIC GRIDS: CASE STUDY BR-408
 ## Universidade Federal de Pernambuco - UFPE
 ### Center for Technology and Geosciences - CTG
 ### Graduate Program in Civil Engineering
@@ -56,8 +49,9 @@ This repository is for the summary data article entitled "MODEL TEMPORAL SPACE O
 
 3. [Results Found in the Qgis "Molusce" Plugin](https://github.com/ErisonBarros/Processing-of-the-layers-by-the-Qgis-Molusce-Plugin-.git)
 
-------------
+<img src="https://i.ibb.co/wBZCHCx/LOGO-UFPE.jpg" alt="LOGO-UFPE" border="0">
 
+<img src="https://i.ibb.co/7WTyDsP/Posgradua-o-Civil.jpg" alt="Posgradua-o-Civil" border="0">
 
 ## Lincences used
 
