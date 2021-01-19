@@ -13,7 +13,7 @@ Collaborators:
 
 > Erison Rosa de Oliveira Barros (UFPE)  https://orcid.org/0000-0003-4879-6880
 
-> Maurício de O. Andrade (UFPE)
+> Maurício de O. Andrade (UFPE) https://orcid.org/0000-0002-7377-7668
 
 > Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
 
@@ -28,6 +28,9 @@ Obtaining information about the conditions of the right-of-ways on brazilian hig
 > Irregular Occupation
 > Dynamic Models.
 
+# Data in Brief
+To access the data summary of the search it is necessary to access the link:
+https://data.mendeley.com/datasets/3bsrvrddgm/draft?a=c1f0ff3f-ecd4-4f34-bff3-3e8c08b23a13
 
 # Dataset
 
@@ -38,22 +41,25 @@ This repository is for the summary data article entitled "MODEL TEMPORAL SPACE O
 
 1. [Exploratory Analysis of Socioeconomic and Infrastructure Variables  ](https://github.com/ErisonBarros/BR-408-Highway-Domain-Database/blob/gh-pages1/Analise_Explorat%C3%B3ria_dos_Dados_Socioecon%C3%B4micos_e_de_Infra_estrutura_.ipynb)
 
-2. [MapBiomas Extracted and Normalized Land Use/Cover Layers.](https://www.google.com)
+2. [MapBiomas Extracted and Normalized Land Use/Cover Layers.](https://github.com/ErisonBarros/Raster-of-Standardized-Socioeconomic-and-Infrastructure-Indicators.git)
 
-3. [Processing of the layers by the Qgis "Molusce" Plugin ](https://www.google.com)
+3. [Processing of the layers by the Qgis "Molusce" Plugin ](https://github.com/ErisonBarros/Processing-of-the-layers-by-the-Qgis-Molusce-Plugin-.git)
+
 
 ## Processing:
 
 1. [Geoda Exploratory Analysis](https://dataat.github.io/introducao-ao-machine-learning/index.html#licen%C3%A7a)
-2. [Dataset Postgres](https://dataat.github.io/introducao-analise-de-dados/)
-3. [Results Found in the Qgis "Molusce" Plugin](https://dataat.github.io/introducao-docker/exemplos-de-uso.html#postgres)
+
+2. [Dataset Postgres](https://github.com/ErisonBarros/Dataset_BR408_Postgres)
+
+3. [Results Found in the Qgis "Molusce" Plugin](https://github.com/ErisonBarros/Processing-of-the-layers-by-the-Qgis-Molusce-Plugin-.git)
+
+------------
+
 
 ## Lincences used
 
 [![License: GPL
-v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/lulcc)](https://CRAN.R-project.org/package=lulcc)
-[![Downloads](http://cranlogs.r-pkg.org/badges/lulcc)](https://CRAN.R-project.org/package=lulcc)
-[![Lifecycle:
-maturing](https://img.shields.io/badge/lifecycle-maturing-orange.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-![R-CMD-check](https://github.com/simonmoulds/r_lulcc/workflows/R-CMD-check/badge.svg)
+v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/lulcc)](https://CRAN.R-project.org/package=lulcc)
+[![Downloads](http://cranlogs.r-pkg.org/badges/lulcc)](https://CRAN.R-project.org/package=lulcc)[![Lifecycle:
+maturing](https://img.shields.io/badge/lifecycle-maturing-orange.svg)](https://www.tidyverse.org/lifecycle/#maturing)![R-CMD-check](https://github.com/simonmoulds/r_lulcc/workflows/R-CMD-check/badge.svg)
