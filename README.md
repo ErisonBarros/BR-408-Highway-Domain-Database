@@ -1,5 +1,7 @@
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+! [Casos diários de morte de COVID-19 na Nigéria] (Charts / Daily_death_cases.png)
+
 # TIME-SPACE MODELING OF IRREGULAR OCCUPATIONS AROUND BRAZILIAN HIGHWAYS, BASED ON STATIC GRIDS: CASE STUDY BR-408 
 
 [![License: GPL
