@@ -41,7 +41,7 @@ This repository is for the summary data article entitled "MODEL TEMPORAL SPACE O
 
 3. [Processing of the layers by the Qgis "Molusce" Plugin ](https://github.com/ErisonBarros/Processing-of-the-layers-by-the-Qgis-Molusce-Plugin-.git)
 
-## REVISÃO BIBLIOGRÁFICA 
+## BIBLIOGRAPHIC REVIEW
 
 | Object                                                        | Country                  | Author(s)                                                                                                                                                                                                                                                                                              |
 |---------------------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
