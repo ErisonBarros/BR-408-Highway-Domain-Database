@@ -12,6 +12,8 @@ Collaborators:
 
 > Fernando Lourenço de Souza Júnior (UFPE)  https://orcid.org/0000-0002-6000-149X
 
+## PUBLICATION
+[PUBLICATION](https://www.sciencedirect.com/science/article/pii/S0264837721006943?dgcid=author#bibliog0005)
 
 ## SUMMARY
 
