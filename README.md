@@ -69,7 +69,7 @@ Link: https://1drv.ms/x/s!AjO4oAHV5BZui8Q9CgisBGA2Yaj1Yg?e=tpiq5e
 
 ## Processing:
 
-1. [Geoda Exploratory Analysis](https://dataat.github.io/introducao-ao-machine-learning/index.html#licen%C3%A7a)
+1. [Geoda Exploratory Analysis]()
 
 2. [Dataset Postgres](https://github.com/ErisonBarros/Dataset_BR408_Postgres)
 
